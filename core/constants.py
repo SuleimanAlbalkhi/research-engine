@@ -1,0 +1,2 @@
+MIN_CONFIDENCE_SCORE: float = 0.7
+MAX_LOOP_COUNT: int = 3
