@@ -102,7 +102,7 @@ After synthesis, the evaluator scores the draft from 0.0 to 1.0 and writes struc
 |---|---|---|
 | `LLM_PROVIDER` | `ollama` | LLM backend: `ollama` or `openai` |
 | `OLLAMA_BASE_URL` | `http://localhost:11434` | Ollama server URL |
-| `OLLAMA_MODEL` | `deepseek-r1:8b` | Model name to pull and serve |
+| `OLLAMA_MODEL` | `qwen3:8b` | Model name to pull and serve |
 | `OLLAMA_NUM_GPU` | `0` | Layers offloaded to GPU (0 = CPU only) |
 | `OPENAI_API_KEY` | — | Required when `LLM_PROVIDER=openai` |
 | `OPENAI_MODEL` | `gpt-4o-mini` | OpenAI model name |
