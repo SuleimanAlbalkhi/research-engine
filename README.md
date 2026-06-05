@@ -6,8 +6,7 @@ A LangGraph agent that transforms a topic into a sourced research report — wit
 
 ---
 
-![Demo](docs/demo.png)
-> *Add screenshot after first successful run*
+
 
 ---
 
